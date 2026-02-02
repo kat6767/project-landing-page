@@ -66,3 +66,14 @@ ul a{
     flex-shrink: 1;
     flex-basis: 500px;
 }
+
+button{
+    border: none;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 7px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 10px;
+}
