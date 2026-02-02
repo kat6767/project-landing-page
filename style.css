@@ -38,6 +38,8 @@ ul a{
 
 .hero-container{
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .hero-main-text{
@@ -53,4 +55,13 @@ ul a{
 
 .hero-img{
     background-color: gray;
+    flex-basis: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text{
+    flex-shrink: 1;
+    flex-basis: 500px;
 }
