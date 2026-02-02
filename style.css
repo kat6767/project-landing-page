@@ -2,6 +2,9 @@
 
 body{
     font-family: Roboto, sans-serif;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
 }
 
 .header-container{
