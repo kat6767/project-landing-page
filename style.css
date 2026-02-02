@@ -60,6 +60,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .hero-text{
