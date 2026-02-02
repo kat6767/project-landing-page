@@ -1,0 +1,1 @@
+This project will serve as practice of the concepts learned about Flexbox, to try and deploy a basic template for a landing page! c:
