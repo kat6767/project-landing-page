@@ -78,3 +78,17 @@ button{
     font-size: 16px;
     margin-top: 10px;
 }
+
+.info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.info-title{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
