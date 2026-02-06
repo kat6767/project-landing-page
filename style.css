@@ -146,4 +146,11 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #3882F6;
+    padding: 20px 60px;
+    border-radius: 10px;
+}
+
+.call-to-action{
+    padding: 30px 260px;
 }
