@@ -150,8 +150,14 @@ button{
     background-color: #3882F6;
     padding: 20px 60px;
     border-radius: 10px;
+    color: #F9FAF8;
 }
 
 .call-to-action{
     padding: 30px 260px;
+}
+
+.call-to-action .upper-text{
+    font-weight: 900;
+    font-size: 20px;
 }
