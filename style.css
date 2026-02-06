@@ -146,6 +146,7 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 100px;
     background-color: #3882F6;
     padding: 20px 60px;
     border-radius: 10px;
