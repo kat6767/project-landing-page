@@ -115,4 +115,9 @@ button{
     width: 140px;
     text-align: center;
     font-size: 15px;
+    color: gray;
+}
+
+.wrapper .text{
+    padding-top: 5px;
 }
