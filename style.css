@@ -148,13 +148,13 @@ button{
     align-items: center;
     gap: 100px;
     background-color: #3882F6;
-    padding: 20px 60px;
+    padding: 40px 60px;
     border-radius: 10px;
     color: #F9FAF8;
 }
 
 .call-to-action{
-    padding: 30px 260px;
+    padding: 80px 260px;
 }
 
 .call-to-action .upper-text{
