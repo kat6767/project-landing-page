@@ -141,3 +141,9 @@ button{
     justify-content: end;
     padding-right: 50px;
 }
+
+.call-to-action .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
